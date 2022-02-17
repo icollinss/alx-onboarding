@@ -1,0 +1,9 @@
+#calculate the sum of squares of given input of numbers
+#pseudocode
+num_1= input("Enter first number:")
+record first number:
+num_2: input("Enter second number:"))
+record second number:
+num_3= input("Enter third number: ")
+record third number:
+sorted(num_1, num_2,num_3)
